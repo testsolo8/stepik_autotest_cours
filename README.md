@@ -1,2 +1,2 @@
 # stepik_autotest_cours]
-Для хранения задании курса автоматизации stepik (https://stepik.org/course/575)
+Р”Р»СЏ С…СЂР°РЅРµРЅРёСЏ Р·Р°РґР°РЅРёРё РєСѓСЂСЃР° Р°РІС‚РѕРјР°С‚РёР·Р°С†РёРё stepik (https://stepik.org/course/575)
