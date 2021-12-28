@@ -21,4 +21,3 @@ class TestMainPage1():
         browser.get(link)
         browser.find_element_by_css_selector(".basket-mini .btn-group > a")
 
-        pytest -m "smoke or regression" --browser_name=firefox test_login.py
